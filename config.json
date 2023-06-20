@@ -12,8 +12,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "xmr-jp1.nanopool.org:10300",
-            "user": "46RY7TncQG8DguotGBJRyrAsiCfZH71msD8nXuECLfPFNc58rWQvL17S5tnRN43PFbN7Q1S4ksy5o9QVny1k5KkjFUFQEu8.ascar_mob",
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "46RY7TncQG8DguotGBJRyrAsiCfZH71msD8nXuECLfPFNc58rWQvL17S5tnRN43PFbN7Q1S4ksy5o9QVny1k5KkjFUFQEu8",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
