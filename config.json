@@ -96,12 +96,7 @@
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
-            "self-select": null,
-            "submit-to-origin": false,
-			"cpu-priority": 5,
-			"threads": 2,
-			"opencl": true,
-			"opencl-devices": 0
+            "self-select": null
         }
     ],
     "retries": 5,
