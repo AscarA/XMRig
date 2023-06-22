@@ -12,7 +12,8 @@
     },
     "cpu": {
         "enabled": true,
-        "huge-pages": true
+        "huge-pages": true,
+        "rx": [0, 1, 2, 3],
     },
 
     "log-file": null,
