@@ -23,9 +23,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "gulf.moneroocean.stream:10032",
+            "url": "gulf.moneroocean.stream:10064",
             "user": "46RY7TncQG8DguotGBJRyrAsiCfZH71msD8nXuECLfPFNc58rWQvL17S5tnRN43PFbN7Q1S4ksy5o9QVny1k5KkjFUFQEu8",
-            "pass": "x",
+            "pass": "test1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
