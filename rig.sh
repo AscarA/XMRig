@@ -1,6 +1,5 @@
 #bash /home/job/turbo-boost.sh enable
 #cpupower frequency-set -g performance
-
 bash monero/miner.sh --config=config.json
 
 #cd xmrig/build
